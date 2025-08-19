@@ -17,7 +17,7 @@ Focused on secure systems, automation, and enterprise-scale deployments
 
 ## 🚀 Projects
 
-Explore my infrastructure and automation work in the [Projects repo](https://github.com/SurenJewels/Projects)
+Explore my infrastructure and automation work in the [Projects repository](https://github.com/SurenJewels/Projects), where I document real-world deployments, secure systems, and scalable cloud solutions.
 
 ---
 
