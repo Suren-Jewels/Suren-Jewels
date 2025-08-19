@@ -15,11 +15,9 @@ Focused on secure systems, automation, and enterprise-scale deployments
 
 ---
 
-## 📁 Featured Projects
+## 🚀 Projects
 
-- `Scripts-Toolkit`: Automation scripts for cloud provisioning and compliance
-- `Resume-Portfolio`: Career highlights and achievements
-- `Branding-Design`: Personal branding assets
+Explore my infrastructure and automation work in the [Projects repo](https://github.com/SurenJewels/Projects)
 
 ---
 
