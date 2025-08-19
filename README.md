@@ -31,9 +31,13 @@ Focused on secure systems, automation, and enterprise-scale deployments
 
 ---
 
-## 📫 Connect with Me
+## ## 📬 Contact
 
-- [LinkedIn](https://linkedin.com/in/Suren-Jewels)
-- [GitHub](https://github.com/Suren-Jewels)
-- 📧 SurenJewelsPro@gmail.com
+I'm always open to connecting with fellow engineers, collaborators, and curious minds. Feel free to reach out through any of the channels below:
+
+- 📧 Email: [surenjewels@example.com](mailto:surenjewels@example.com)
+- 💼 LinkedIn: [linkedin.com/in/surenjewels](https://linkedin.com/in/surenjewels)
+- 🛠️ GitHub Projects: [github.com/SurenJewels?tab=repositories](https://github.com/SurenJewels?tab=repositories)
+
+For security and privacy reasons, I don’t share my phone number publicly. If we’re working together or you need to connect directly, just drop me a message first.
 -->
