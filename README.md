@@ -15,13 +15,13 @@ Focused on secure systems, automation, and enterprise-scale deployments
 
 ---
 
-## 🚀 Projects
+## 🛰️ Projects
 
 Explore my infrastructure and automation work in the [Projects repository](https://github.com/Suren-Jewels/Projects), where I document real-world deployments, secure systems, and scalable cloud solutions.
 
 ---
 
-## 🧠 Career Highlights
+## 💼 Career Highlights
 
 - Deployed EGSE infrastructure for Amazon’s Project Kuiper ($10M+ initiative)
 - Managed 1,000+ servers across 34 global PODs at ServiceNow
@@ -34,7 +34,7 @@ Explore my infrastructure and automation work in the [Projects repository](https
 I'm always open to connecting with fellow engineers, collaborators, and curious minds. Feel free to reach out through any of the channels below:
 
 - 📧 Email: [surenjewels@example.com](mailto:surenjewels@example.com)
-- 💼 LinkedIn: [linkedin.com/in/surenjewels](https://linkedin.com/in/surenjewels)
+- ⛓ LinkedIn: [linkedin.com/in/surenjewels](https://linkedin.com/in/surenjewels)
 - 🛠️ GitHub Projects: [github.com/SurenJewels?tab=repositories](https://github.com/SurenJewels?tab=repositories)
 
 For security and privacy reasons, I don’t share my phone number publicly. If we’re working together or you need to connect directly, just drop me a message first.
