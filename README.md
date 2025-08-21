@@ -5,7 +5,7 @@ Focused on secure systems, automation, and enterprise-scale deployments
 
 ---
 
-## 🛠️ Technical Focus
+## 🎯 Technical Focus
 
 - **Cloud Platforms**: AWS, Azure, Microsoft 365, SharePoint
 - **Security & Compliance**: FedRAMP, IL4/IL5, NIST, BitLocker, CrowdStrike
@@ -23,7 +23,7 @@ Focused on secure systems, automation, and enterprise-scale deployments
 
 ---
 
-## 🛰️ Projects
+## 🗂️ Projects
 
 Explore my infrastructure and automation work in the [Projects repository](https://github.com/Suren-Jewels/Projects), where I document real-world deployments, secure systems, and scalable cloud solutions.
 
