@@ -23,6 +23,7 @@ Focused on secure systems, automation, and enterprise-scale deployments
 - [Resume-Portfolio](https://github.com/Suren-Jewels/Resume-Portfolio) — Career highlights, metrics, and documentation in a transparent format  
 - [Branding-Design](https://github.com/Suren-Jewels/Branding-Design) — Personal branding assets and design elements
 - [![🛰️ Kuiper EGSE Deployment](https://img.shields.io/badge/Kuiper%20EGSE-View%20Project-blue)](https://github.com/Suren-Jewels/Kuiper-EGSE-Deployment)
+- [![📊 ServiceNow Optimization](https://img.shields.io/badge/ServiceNow-View%20Project-blue)](https://github.com/Suren-Jewels/ServiceNow-Capacity-Optimization)
 
 ---
 
