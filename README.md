@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Suren Jewels
+## 👋 Hello, I'm Suren Jewels
 
 Cloud Infrastructure & Systems Engineer based in Bellevue, WA  
 Focused on secure systems, automation, and enterprise-scale deployments
@@ -41,7 +41,23 @@ Explore my infrastructure and automation work in the [Projects repository](https
 
 ---
 
-## ## 📬 Contact
+## 📈 Key Outcomes
+
+- Improved satellite testing readiness by 15% through EGSE deployment at Amazon  
+- Reduced cloud over-provisioning by 20% and optimized server utilization by 32% at ServiceNow  
+- Delivered secure IL4/IL5 support for 5,000+ federal users with 99.5% availability  
+- Cut communication costs by 20% and boosted Wi-Fi coverage by 30% at UPS  
+- Modernized public sector ERP systems, reducing processing times by 40% for 2M+ residents
+
+---
+
+## 🔒 Confidentiality Notice
+
+Some of the projects and systems I've worked on involve proprietary or sensitive information. While I share high-level outcomes and technical insights, detailed documentation, scripts, and architecture diagrams may be omitted due to confidentiality agreements.
+
+---
+
+## 📬 Contact
 
 I'm always open to connecting with fellow engineers, collaborators, and curious minds. Feel free to reach out through any of the channels below:
 
@@ -50,4 +66,4 @@ I'm always open to connecting with fellow engineers, collaborators, and curious 
 - 🗄️GitHub Projects: [github.com/SurenJewels?tab=repositories](https://github.com/SurenJewels?tab=repositories)
 
 For security and privacy reasons, I don’t share my phone number publicly. If we’re working together or you need to connect directly, just drop me a message first.
--->
+---
