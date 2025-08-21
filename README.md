@@ -22,6 +22,7 @@ Focused on secure systems, automation, and enterprise-scale deployments
 - [Scripts-Toolkit](https://github.com/Suren-Jewels/Scripts-Toolkit) — Automation scripts for cloud provisioning, compliance, and infrastructure management  
 - [Resume-Portfolio](https://github.com/Suren-Jewels/Resume-Portfolio) — Career highlights, metrics, and documentation in a transparent format  
 - [Branding-Design](https://github.com/Suren-Jewels/Branding-Design) — Personal branding assets and design elements
+- [![🛰️ Kuiper EGSE Deployment](https://img.shields.io/badge/Kuiper%20EGSE-View%20Project-blue)](https://github.com/Suren-Jewels/Kuiper-EGSE-Deployment)
 
 ---
 
