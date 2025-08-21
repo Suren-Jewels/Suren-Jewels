@@ -29,11 +29,15 @@ Explore my infrastructure and automation work in the [Projects repository](https
 
 ---
 
-## 💼 Career Highlights
+## 🏆 Career Highlights
 
-- Deployed EGSE infrastructure for Amazon’s Project Kuiper ($10M+ initiative)
-- Managed 1,000+ servers across 34 global PODs at ServiceNow
-- Delivered IL4/IL5 support for 5,000+ federal users across 12+ agencies
+- Amazon Project Kuiper: Deployed 5 EGSE satellite testing racks with 100% operational readiness, contributing to a $10M+ aerospace initiative
+- ServiceNow Global Capacity Optimization: Managed 1,000+ servers across 34 PODs, reclaimed 18% underutilized cloud resources, and improved capacity utilization by 32%
+- Federal Security Support: Delivered IL4/IL5 weekend support for 5,000+ government users across 12+ agencies with 100% YubiKey compliance
+- UPS Infrastructure Modernization: Led VoIP and Wi-Fi upgrades, reducing communication costs by 20% and boosting coverage by 30%
+- Charter Communications Field Engineering: Completed 1,800+ installations with 95% first-attempt resolution and zero performance degradation
+- Farazware Co. Leadership: Scaled an IT services company with 30% YoY growth and 5,000+ successful system deployments
+- Public Sector ERP Modernization: Directed multi-million dollar municipal automation projects impacting 2M+ residents across 15+ agencies
 
 ---
 
