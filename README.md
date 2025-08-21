@@ -15,6 +15,14 @@ Focused on secure systems, automation, and enterprise-scale deployments
 
 ---
 
+## 📂 Featured Repositories
+
+- [Scripts-Toolkit](https://github.com/Suren-Jewels/Scripts-Toolkit) — Automation scripts for cloud provisioning, compliance, and infrastructure management  
+- [Resume-Portfolio](https://github.com/Suren-Jewels/Resume-Portfolio) — Career highlights, metrics, and documentation in a transparent format  
+- [Branding-Design](https://github.com/Suren-Jewels/Branding-Design) — Personal branding assets and design elements
+
+---
+
 ## 🛰️ Projects
 
 Explore my infrastructure and automation work in the [Projects repository](https://github.com/Suren-Jewels/Projects), where I document real-world deployments, secure systems, and scalable cloud solutions.
