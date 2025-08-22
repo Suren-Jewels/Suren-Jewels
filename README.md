@@ -24,6 +24,7 @@ Focused on secure systems, automation, and enterprise-scale deployments
 - [Branding-Design](https://github.com/Suren-Jewels/Branding-Design) — Personal branding assets and design elements
 - [![🛰️ Kuiper EGSE Deployment](https://img.shields.io/badge/Kuiper%20EGSE-View%20Project-blue)](https://github.com/Suren-Jewels/Kuiper-EGSE-Deployment)
 - [![📊 ServiceNow Optimization](https://img.shields.io/badge/ServiceNow-View%20Project-blue)](https://github.com/Suren-Jewels/ServiceNow-Capacity-Optimization)
+- [![🛡️ Federal Security Support](https://img.shields.io/badge/Federal%20Support-View%20Project-blue)](https://github.com/Suren-Jewels/Federal-Security-Support)
 - [![📡 UPS Modernization](https://img.shields.io/badge/UPS%20Modernization-View%20Project-blue)](https://github.com/Suren-Jewels/UPS-Infrastructure-Modernization)
 
 ---
