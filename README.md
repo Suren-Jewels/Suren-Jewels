@@ -19,9 +19,9 @@ Focused on secure systems, automation, and enterprise-scale deployments
 
 ## 📂 Featured Repositories
 
-- [Scripts-Toolkit](https://github.com/Suren-Jewels/Scripts-Toolkit) — Automation scripts for cloud provisioning, compliance, and infrastructure management  
-- [Resume-Portfolio](https://github.com/Suren-Jewels/Resume-Portfolio) — Career highlights, metrics, and documentation in a transparent format  
-- [Branding-Design](https://github.com/Suren-Jewels/Branding-Design) — Personal branding assets and design elements
+- [Scripts-Toolkit](https://github.com/Suren-Jewels/Scripts-Toolkit) - Automation scripts for cloud provisioning, compliance, and infrastructure management  
+- [Resume-Portfolio](https://github.com/Suren-Jewels/Resume-Portfolio) - Career highlights, metrics, and documentation in a transparent format  
+- [Branding-Design](https://github.com/Suren-Jewels/Branding-Design) - Personal branding assets and design elements
 - [![🛰️ Kuiper EGSE Deployment](https://img.shields.io/badge/Kuiper%20EGSE-View%20Project-blue)](https://github.com/Suren-Jewels/Kuiper-EGSE-Deployment)
 - [![📊 ServiceNow Optimization](https://img.shields.io/badge/ServiceNow-View%20Project-blue)](https://github.com/Suren-Jewels/ServiceNow-Capacity-Optimization)
 - [![🛡️ Federal Security Support](https://img.shields.io/badge/Federal%20Support-View%20Project-blue)](https://github.com/Suren-Jewels/Federal-Security-Support)
