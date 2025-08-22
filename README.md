@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Suren Jewels
+## 🗽🦅 Suren Jewels  
 
 Cloud Infrastructure & Systems Engineer based in Bellevue, WA  
 Focused on secure systems, automation, and enterprise-scale deployments
