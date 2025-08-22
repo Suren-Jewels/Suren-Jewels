@@ -28,6 +28,7 @@ Focused on secure systems, automation, and enterprise-scale deployments
 - [![🔒 YubiKey & VDI Support](https://img.shields.io/badge/YubiKey%20%26%20VDI-View%20Project-blue)](https://github.com/Suren-Jewels/YubiKey-VDI-ServiceNow-Support)
 - [![📡 UPS Modernization](https://img.shields.io/badge/UPS%20Modernization-View%20Project-blue)](https://github.com/Suren-Jewels/UPS-Infrastructure-Modernization)
 - [![🗺️ ERP & GIS Modernization](https://img.shields.io/badge/ERP%20%26%20GIS-View%20Project-blue)](https://github.com/Suren-Jewels/ERP-GIS-Modernization)
+- [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume)
 
 ---
 
