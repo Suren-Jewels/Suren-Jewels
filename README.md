@@ -70,9 +70,9 @@ Some of the projects and systems I've worked on involve proprietary or sensitive
 
 I'm always open to connecting with fellow engineers, collaborators, and curious minds. Feel free to reach out through any of the channels below:
 
-- 📧 Email: [surenjewels@example.com](mailto:SurenJewelsPro@gmail.com)
-- ⛓ LinkedIn: [linkedin.com/in/surenjewels](https://linkedin.com/in/SurenJewels)
-- 🗄️GitHub Projects: [github.com/SurenJewels?tab=repositories](https://github.com/SurenJewels?tab=repositories)
+- 📧 Email: [SurenJewelsPro@gmail.com](mailto:SurenJewelsPro@gmail.com)
+- ⛓ LinkedIn: [LinkedIn.com/in/SurenJewels](https://linkedin.com/in/SurenJewels)
+- 🗄️GitHub Projects: [GitHub.com/SurenJewels?tab=repositories](https://github.com/SurenJewels?tab=repositories)
 
 For security and privacy reasons, I don’t share my phone number publicly. If we’re working together or you need to connect directly, just drop me a message first.
 ---
