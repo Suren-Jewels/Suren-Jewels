@@ -3,7 +3,7 @@
 Cloud Infrastructure & Systems Engineer based in Bellevue, WA  
 Focused on secure systems, automation, and enterprise-scale deployments
 
-[![📄 View My Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenJewels_Resume.pdf) ☞ Updated on August 28, 2025
+[![📄 View My Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenJewels_Resume.pdf) ☞ Updated on September 07, 2025
 
 ---
 
