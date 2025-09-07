@@ -74,7 +74,7 @@ I'm always open to connecting with fellow engineers, collaborators, and curious 
 - ⛓ LinkedIn: [LinkedIn.com/in/SurenJewels](https://linkedin.com/in/SurenJewels)
 - 🗄️GitHub Projects: [GitHub.com/SurenJewels?tab=repositories](https://github.com/SurenJewels?tab=repositories)
 
-*Note: Some credentials, contributions, or publications prior to 2023 may appear under the name Saeid "Sid" Javaherian.*
+*Note: Some credentials, contributions, or publications prior to 2025 may appear under the name Saeid "Sid" Javaherian.*
 
 For security and privacy reasons, I don’t share my phone number publicly. If we’re working together or you need to connect directly, just drop me a message first.
 ---
