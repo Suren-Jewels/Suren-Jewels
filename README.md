@@ -130,22 +130,22 @@ Older or secondary projects are now consolidated into a single, structured archi
 </thead>
 <tbody>
 <tr>
-<td>🏢 ERP-GIS-Modernization</td>
+<td><a href="https://github.com/Suren-Jewels/Legacy-Projects-Archive/tree/main/ERP-GIS-Modernization">🏢 ERP-GIS-Modernization</a></td>
 <td>Public Sector IT</td>
 <td>Archived</td>
 </tr>
 <tr>
-<td>💼 FarazWare-Consulting</td>
+<td><a href="https://github.com/Suren-Jewels/Legacy-Projects-Archive/tree/main/FarazWare-Consulting">💼 FarazWare-Consulting</a></td>
 <td>IT Services & Consulting</td>
 <td>Archived</td>
 </tr>
 <tr>
-<td>🎓 Universities-ICT-Lecturer</td>
+<td><a href="https://github.com/Suren-Jewels/Legacy-Projects-Archive/tree/main/Universities-ICT-Lecturer">🎓 Universities-ICT-Lecturer</a></td>
 <td>Academia & Teaching</td>
 <td>Archived</td>
 </tr>
 <tr>
-<td>📦 Projects</td>
+<td><a href="https://github.com/Suren-Jewels/Legacy-Projects-Archive/tree/main/Projects">📦 Projects</a></td>
 <td>Miscellaneous Technical Work</td>
 <td>Archived</td>
 </tr>
