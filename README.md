@@ -47,7 +47,7 @@ Explore my infrastructure and automation work in the [Projects repository](https
 ## 🏆 Career Highlights
 
 - Amazon – Project Kuiper (Aerospace Infrastructure)
-Delivered EGSE satellite testing environments across $10M+ systems, achieving 100% operational readiness and secure, repeatable infrastructure deployments.
+    - Delivered EGSE satellite testing environments across $10M+ systems, achieving 100% operational readiness and secure, repeatable infrastructure deployments.
 - ServiceNow – Global Capacity Optimization
 Analyzed 1,000+ servers across 34 PODs, reclaiming underutilized cloud resources and improving capacity utilization through data‑driven optimization.
 Federal IL4/IL5 Security Support
