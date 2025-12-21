@@ -51,7 +51,8 @@ Explore my infrastructure and automation work in the [Projects repository](https
 
 - **ServiceNow – Global Capacity Optimization**
     - *Analyzed 1000+ servers across 34 PODs, reclaiming underutilized cloud resources and improving capacity utilization through data‑driven optimization.*
-    - *Federal IL4/IL5 Security Support*
+
+- **Federal IL4/IL5 Security Support**
     - *Provided secure weekend support for 5000+ federal users across 12+ agencies, ensuring strong YubiKey enforcement and high‑availability access controls.*
 
 - **UPS – Infrastructure Modernization**
