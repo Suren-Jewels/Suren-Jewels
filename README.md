@@ -20,7 +20,6 @@ Bellevue, WA • Aerospace, Federal, and Enterprise Systems
 ## 📂 Core repositories
 
 - [Scripts-Toolkit](https://github.com/Suren-Jewels/Scripts-Toolkit) – Automation scripts for cloud provisioning, compliance checks, and infrastructure management  
-- [Resume-Portfolio](https://github.com/Suren-Jewels/Resume-Portfolio) – Professional resume, career highlights, and outcome-focused documentation  
 - [Branding-Design](https://github.com/Suren-Jewels/Branding-Design) – Personal branding assets and design elements  
 - [Kuiper-EGSE-Deployment](https://github.com/Suren-Jewels/Kuiper-EGSE-Deployment) – Infrastructure deployment patterns inspired by aerospace-grade satellite testing environments
   
@@ -78,9 +77,9 @@ Some of the projects and systems I've worked on involve proprietary or sensitive
 I'm always open to connecting with fellow engineers, collaborators, and curious minds. Feel free to reach out through any of the channels below:
 
 - 📧 Email: [SurenJewelsPro@gmail.com](mailto:SurenJewelsPro@gmail.com)
-- ⛓ LinkedIn: [LinkedIn.com/in/SurenJewels](https://linkedin.com/in/SurenJewels)
-- 🗄️GitHub Projects: [GitHub.com/SurenJewels?tab=repositories](https://github.com/SurenJewels?tab=repositories)
-
+- ⛓ LinkedIn: [linkedin.com/in/suren-jewels](https://www.linkedin.com/in/suren-jewels/)
+- 🗄️ GitHub Projects: [github.com/Suren-Jewels?tab=repositories](https://github.com/Suren-Jewels?tab=repositories)
+  
 *Note: Some credentials, contributions, or publications prior to 2025 may appear under the name Saeid "Sid" Javaherian.*
 
 For security and privacy reasons, I don’t share my phone number publicly. If we’re working together or you need to connect directly, just drop me a message first.
