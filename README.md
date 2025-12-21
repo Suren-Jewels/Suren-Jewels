@@ -65,11 +65,13 @@ Explore my infrastructure and automation work in the [Projects repository](https
 
 ## 📈 Key Outcomes
 
-- Improved satellite testing readiness by 15% through EGSE deployment at Amazon  
-- Reduced cloud over-provisioning by 20% and optimized server utilization by 32% at ServiceNow  
-- Delivered secure IL4/IL5 support for 5,000+ federal users with 99.5% availability  
-- Cut communication costs by 20% and boosted Wi-Fi coverage by 30% at UPS  
-- Modernized public sector ERP systems, reducing processing times by 40% for 2M+ residents
+- Improved aerospace testing readiness through secure, repeatable EGSE infrastructure deployments.
+- Reduced cloud over‑provisioning and increased server utilization through data‑driven capacity analysis.
+- Delivered secure IL4/IL5 support with high availability and strong authentication controls for 5000+ federal users.
+- Modernized enterprise infrastructure, reducing communication costs and improving network reliability across multiple sites.
+- Accelerated public‑sector processing times by 40% for systems serving 2M+ residents.
+- Achieved 95% first‑attempt resolution across 1800+ field engineering deployments.
+- Scaled an IT services organization with 30% YoY growth and 5,000+ successful system implementations.
 
 ---
 
