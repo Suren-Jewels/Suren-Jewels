@@ -1,92 +1,119 @@
 ## 🗽🦅 Suren Jewels  
-
-Cloud & Infrastructure Engineer | SRE | Security + Automation | ML Infrastructure
+**Cloud & Infrastructure Engineer • SRE • Security & IAM • Automation**  
 Bellevue, WA • Aerospace, Federal, and Enterprise Systems
 
-[![📄 View My Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenJewels_Resume.pdf) ➜ Updated on December 2025
+[![📄 View My Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenJewels_Resume.pdf)  
+_Last updated: December 2025_
 
 ---
 
 ## 🎯 Technical Focus
 
-- **Cloud Platforms**: AWS, Azure, Microsoft 365, SharePoint
-- **Security & Compliance**: FedRAMP, IL4/IL5, NIST, BitLocker, CrowdStrike
-- **IAM & Access**: Okta, YubiKey, Active Directory, MFA
-- **Automation & Scripting**: Python, PowerShell, Bash, SQL
-- **Tools**: ServiceNow, JIRA, Intune, Jamf, VMware, Citrix
+- **Cloud Platforms**: AWS, Azure, Microsoft 365  
+- **Security & Compliance**: FedRAMP, IL4/IL5, NIST, Zero Trust, BitLocker, CrowdStrike  
+- **IAM & Access**: Okta, YubiKey, Active Directory, MFA, RBAC  
+- **Automation & Scripting**: Python, PowerShell, Bash, SQL  
+- **Enterprise Tools**: ServiceNow, JIRA, Intune, Jamf, VMware, Citrix  
 
 ---
 
-## 📂 Core repositories
+## 🚀 Core Engineering Repositories
 
-- [Scripts-Toolkit](https://github.com/Suren-Jewels/Scripts-Toolkit) – Automation scripts for cloud provisioning, compliance checks, and infrastructure management  
-- [Branding-Design](https://github.com/Suren-Jewels/Branding-Design) – Personal branding assets and design elements  
-- [Kuiper-EGSE-Deployment](https://github.com/Suren-Jewels/Kuiper-EGSE-Deployment) – Infrastructure deployment patterns inspired by aerospace-grade satellite testing environments
-  
+These repositories represent my **active technical brand** across Cloud, SRE, Security, and Automation.
+
+### ✅ **Flagship Projects**
+- **[Kuiper-EGSE-Deployment](https://github.com/Suren-Jewels/Kuiper-EGSE-Deployment)**  
+  Mission-critical satellite testing infrastructure (EGSE/ATE/KTE)
+
+- **[ServiceNow-Capacity-Optimization](https://github.com/Suren-Jewels/ServiceNow-Capacity-Optimization)**  
+  Enterprise-scale capacity engineering across 1,000+ servers
+
+- **[Federal-Security-Support](https://github.com/Suren-Jewels/Federal-Security-Support)**  
+  IL4/IL5, GCC/NSC, Zero Trust, YubiKey, and secure access workflows
+
+- **[YubiKey-VDI-ServiceNow-Support](https://github.com/Suren-Jewels/YubiKey-VDI-ServiceNow-Support)**  
+  Identity engineering, MFA troubleshooting, and secure VDI access
+
+- **[Scripts-Toolkit](https://github.com/Suren-Jewels/Scripts-Toolkit)**  
+  Cross-platform automation toolkit (Python, PowerShell, Bash)
+
 ---
 
-## 🗂️ More project repositories
+## 📁 Additional Engineering Work
 
-- [![📊 ServiceNow Optimization](https://img.shields.io/badge/ServiceNow-View%20Project-blue)](https://github.com/Suren-Jewels/ServiceNow-Capacity-Optimization)
-- [![🛡️ Federal Security Support](https://img.shields.io/badge/Federal%20Support-View%20Project-blue)](https://github.com/Suren-Jewels/Federal-Security-Support)
-- [![🔒 YubiKey & VDI Support](https://img.shields.io/badge/YubiKey%20%26%20VDI-View%20Project-blue)](https://github.com/Suren-Jewels/YubiKey-VDI-ServiceNow-Support)
-- [![📡 UPS Modernization](https://img.shields.io/badge/UPS%20Modernization-View%20Project-blue)](https://github.com/Suren-Jewels/UPS-Infrastructure-Modernization)
-- [![📺 Charter Network Engineering](https://img.shields.io/badge/Charter%20Network%20Engineering-View%20Project-blue)](https://github.com/Suren-Jewels/Charter-Network-Engineering)
-- [![Universities ICT Lecturer](https://img.shields.io/badge/Universities%20ICT%20Lecturer-View%20Project-blue)](https://github.com/Suren-Jewels/Universities-ICT-Lecturer)
-- [![🛡️ FarazWare Consulting](https://img.shields.io/badge/FarazWare%20Consulting-View%20Project-blue)](https://github.com/Suren-Jewels/FarazWare-Consulting)
-- [![🗺️ ERP & GIS Modernization](https://img.shields.io/badge/ERP%20%26%20GIS-View%20Project-blue)](https://github.com/Suren-Jewels/ERP-GIS-Modernization)
+- [![📡 UPS Modernization](https://img.shields.io/badge/UPS%20Modernization-View-blue)](https://github.com/Suren-Jewels/UPS-Infrastructure-Modernization)  
+- [![📺 Charter Network Engineering](https://img.shields.io/badge/Charter%20Network%20Engineering-View-blue)](https://github.com/Suren-Jewels/Charter-Network-Engineering)  
+- [![🎨 Branding Design](https://img.shields.io/badge/Branding%20Design-View-blue)](https://github.com/Suren-Jewels/Branding-Design)  
 
 ---
 
-## 🗂️ Projects
+## 🗂️ Legacy Projects Archive (New)
 
-Explore my infrastructure and automation work in the [Projects repository](https://github.com/Suren-Jewels/Projects), where I document real-world deployments, secure systems, and scalable cloud solutions.
+Older or secondary projects are now consolidated into a single, structured archive:
+
+👉 **[Legacy-Projects-Archive](https://github.com/Suren-Jewels/Legacy-Projects-Archive)**
+
+This archive includes:
+
+- 🏢 ERP-GIS-Modernization  
+- 💼 FarazWare-Consulting  
+- 🎓 Universities-ICT-Lecturer  
+- 📦 Projects (miscellaneous technical work)
+
+These projects are preserved for **transparency, historical context, and career continuity**, but do not represent my current Cloud/SRE/Security focus.
 
 ---
 
 ## 🏆 Career Highlights
-- **Amazon – Project Kuiper (Aerospace Infrastructure)**
-    - *Delivered EGSE satellite testing environments across $10M+ systems, achieving 100% operational readiness and secure, repeatable infrastructure deployments.*
-- **ServiceNow – Global Capacity Optimization**
-    - *Analyzed 1000+ servers across 34 PODs, reclaiming underutilized cloud resources and improving capacity utilization through data‑driven optimization.*
-- **Federal IL4/IL5 Security Support**
-    - *Provided secure weekend support for 5000+ federal users across 12+ agencies, ensuring strong YubiKey enforcement and high‑availability access controls.*
-- **UPS – Infrastructure Modernization**
-    - *Led VoIP and Wi‑Fi modernization across enterprise sites, reducing communication costs and improving network reliability and coverage.*
-- **Charter Communications – Field Engineering**
-    - *Completed 1,800+ installations with 95% first‑attempt resolution, ensuring stable network performance and customer satisfaction.*
-- **FarazWare Co. – Technical Leadership**
-    - *Scaled an IT services company with 30% YoY growth and 5,000+ successful deployments across enterprise and SMB environments.*
-- **Public Sector – ERP & GIS Modernization**
-    - *Directed multi‑agency modernization projects serving 2M+ residents, improving processing times and service reliability across municipal systems.*
 
+- **Amazon – Project Kuiper (Aerospace Infrastructure)**  
+  *Delivered EGSE satellite testing environments across $10M+ systems, achieving 100% operational readiness.*
+
+- **ServiceNow – Global Capacity Optimization**  
+  *Analyzed 1,000+ servers across 34 PODs, improving utilization and reducing over-provisioning.*
+
+- **Federal IL4/IL5 Security Support**  
+  *Provided secure access support for 5,000+ federal users across 12+ agencies with strong MFA enforcement.*
+
+- **UPS – Infrastructure Modernization**  
+  *Led VoIP and Wi-Fi modernization across enterprise sites, improving reliability and reducing costs.*
+
+- **Charter Communications – Field Engineering**  
+  *Completed 1,800+ installations with 95% first-attempt resolution.*
+
+- **FarazWare Co. – Technical Leadership**  
+  *Scaled an IT services company with 30% YoY growth and 5,000+ successful deployments.*
+
+- **Public Sector – ERP & GIS Modernization**  
+  *Directed multi-agency modernization projects serving 2M+ residents.*
 
 ---
 
 ## 📈 Key Outcomes
 
-- Improved aerospace testing readiness through secure, repeatable EGSE infrastructure deployments.
-- Reduced cloud over‑provisioning and increased server utilization through data‑driven capacity analysis.
-- Delivered secure IL4/IL5 support with high availability and strong authentication controls for 5000+ federal users.
-- Modernized enterprise infrastructure, reducing communication costs and improving network reliability across multiple sites.
-- Accelerated public‑sector processing times by 40% for systems serving 2M+ residents.
-- Achieved 95% first‑attempt resolution across 1800+ field engineering deployments.
-- Scaled an IT services organization with 30% YoY growth and 5000+ successful system implementations.
+- Improved aerospace testing readiness through secure, repeatable EGSE deployments  
+- Increased cloud efficiency through data-driven capacity engineering  
+- Delivered high-availability IL4/IL5 authentication support  
+- Modernized enterprise infrastructure across multiple sites  
+- Accelerated public-sector processing times by 40%  
+- Achieved 95% first-attempt resolution across 1,800+ field deployments  
+- Scaled IT operations with 30% YoY growth and 5,000+ implementations  
 
 ---
 
 ## 🔒 Confidentiality Notice
 
-Some of the projects and systems I've worked on involve proprietary or sensitive information. While I share high-level outcomes and technical insights, detailed documentation, scripts, and architecture diagrams may be omitted due to confidentiality agreements.
+Some projects involve sensitive or proprietary systems.  
+All shared documentation is **sanitized**, and certain technical details are intentionally omitted to respect confidentiality agreements.
 
 ---
 
 ## 📬 Contact
 
-I'm always open to connecting with fellow engineers, collaborators, and curious minds. Feel free to reach out through any of the channels below:
+I'm always open to connecting with engineers, collaborators, and technical leaders.
 
-- 📧 Email: [SurenJewelsPro@gmail.com](mailto:SurenJewelsPro@gmail.com)
-- ⛓ LinkedIn: [linkedin.com/in/suren-jewels](https://www.linkedin.com/in/suren-jewels/)
-- 🗄️ GitHub Projects: [github.com/Suren-Jewels?tab=repositories](https://github.com/Suren-Jewels?tab=repositories)
-  
+- 📧 Email: **SurenJewelsPro@gmail.com**  
+- 🔗 LinkedIn: **https://www.linkedin.com/in/suren-jewels/**  
+- 🗄️ GitHub Repositories: **https://github.com/Suren-Jewels?tab=repositories**
+
 ---
