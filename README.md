@@ -3,7 +3,7 @@
 Cloud & Infrastructure Engineer | SRE | Security + Automation | ML Infrastructure
 Bellevue, WA • Aerospace, Federal, and Enterprise Systems
 
-[![📄 View My Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenJewels_Resume.pdf) ☞ Updated on September 10, 2025
+[![📄 View My Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenJewels_Resume.pdf) ➜ Updated on December 2025
 
 ---
 
