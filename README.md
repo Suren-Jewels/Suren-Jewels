@@ -1,7 +1,7 @@
 ## 🗽🦅 Suren Jewels  
 
-Cloud Infrastructure & Systems Engineer based in Bellevue, WA  
-Focused on secure systems, automation, and enterprise-scale deployments
+Cloud & Infrastructure Engineer | SRE | Security + Automation | ML Infrastructure
+Bellevue, WA • Aerospace, Federal, and Enterprise Systems
 
 [![📄 View My Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenJewels_Resume.pdf) ☞ Updated on September 10, 2025
 
@@ -17,12 +17,17 @@ Focused on secure systems, automation, and enterprise-scale deployments
 
 ---
 
-## 📂 Featured Repositories
+## 📂 Core repositories
 
-- [Scripts-Toolkit](https://github.com/Suren-Jewels/Scripts-Toolkit) - Automation scripts for cloud provisioning, compliance, and infrastructure management  
-- [Resume-Portfolio](https://github.com/Suren-Jewels/Resume-Portfolio) - Career highlights, metrics, and documentation in a transparent format  
-- [Branding-Design](https://github.com/Suren-Jewels/Branding-Design) - Personal branding assets and design elements
-- [![🛰️ Kuiper EGSE Deployment](https://img.shields.io/badge/Kuiper%20EGSE-View%20Project-blue)](https://github.com/Suren-Jewels/Kuiper-EGSE-Deployment)
+- [Scripts-Toolkit](https://github.com/Suren-Jewels/Scripts-Toolkit) – Automation scripts for cloud provisioning, compliance checks, and infrastructure management  
+- [Resume-Portfolio](https://github.com/Suren-Jewels/Resume-Portfolio) – Professional resume, career highlights, and outcome-focused documentation  
+- [Branding-Design](https://github.com/Suren-Jewels/Branding-Design) – Personal branding assets and design elements  
+- [Kuiper-EGSE-Deployment](https://github.com/Suren-Jewels/Kuiper-EGSE-Deployment) – Infrastructure deployment patterns inspired by aerospace-grade satellite testing environments
+  
+---
+
+## 🗂️ More project repositories
+
 - [![📊 ServiceNow Optimization](https://img.shields.io/badge/ServiceNow-View%20Project-blue)](https://github.com/Suren-Jewels/ServiceNow-Capacity-Optimization)
 - [![🛡️ Federal Security Support](https://img.shields.io/badge/Federal%20Support-View%20Project-blue)](https://github.com/Suren-Jewels/Federal-Security-Support)
 - [![🔒 YubiKey & VDI Support](https://img.shields.io/badge/YubiKey%20%26%20VDI-View%20Project-blue)](https://github.com/Suren-Jewels/YubiKey-VDI-ServiceNow-Support)
@@ -31,7 +36,6 @@ Focused on secure systems, automation, and enterprise-scale deployments
 - [![Universities ICT Lecturer](https://img.shields.io/badge/Universities%20ICT%20Lecturer-View%20Project-blue)](https://github.com/Suren-Jewels/Universities-ICT-Lecturer)
 - [![🛡️ FarazWare Consulting](https://img.shields.io/badge/FarazWare%20Consulting-View%20Project-blue)](https://github.com/Suren-Jewels/FarazWare-Consulting)
 - [![🗺️ ERP & GIS Modernization](https://img.shields.io/badge/ERP%20%26%20GIS-View%20Project-blue)](https://github.com/Suren-Jewels/ERP-GIS-Modernization)
-- [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenJewels_Resume.pdf) ☞ Updated on September 10, 2025
 
 ---
 
