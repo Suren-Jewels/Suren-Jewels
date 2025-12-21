@@ -46,19 +46,19 @@ Explore my infrastructure and automation work in the [Projects repository](https
 
 ## 🏆 Career Highlights
 
-- Amazon – Project Kuiper (Aerospace Infrastructure)
+- **Amazon – Project Kuiper (Aerospace Infrastructure)**
     - Delivered EGSE satellite testing environments across $10M+ systems, achieving 100% operational readiness and secure, repeatable infrastructure deployments.
-- ServiceNow – Global Capacity Optimization
+- **ServiceNow – Global Capacity Optimization**
     - Analyzed 1000+ servers across 34 PODs, reclaiming underutilized cloud resources and improving capacity utilization through data‑driven optimization.
     - Federal IL4/IL5 Security Support
     - Provided secure weekend support for 5000+ federal users across 12+ agencies, ensuring strong YubiKey enforcement and high‑availability access controls.
-- UPS – Infrastructure Modernization
+- **UPS – Infrastructure Modernization**
     - Led VoIP and Wi‑Fi modernization across enterprise sites, reducing communication costs and improving network reliability and coverage.
-- Charter Communications – Field Engineering**
+- **Charter Communications – Field Engineering**
     - Completed 1,800+ installations with 95% first‑attempt resolution, ensuring stable network performance and customer satisfaction.
-- FarazWare Co. – Technical Leadership
+- **FarazWare Co. – Technical Leadership**
     - Scaled an IT services company with 30% YoY growth and 5,000+ successful deployments across enterprise and SMB environments.
-- Public Sector – ERP & GIS Modernization
+- **Public Sector – ERP & GIS Modernization**
     - Directed multi‑agency modernization projects serving 2M+ residents, improving processing times and service reliability across municipal systems.
 
 
