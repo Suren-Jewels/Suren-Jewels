@@ -71,7 +71,7 @@ Explore my infrastructure and automation work in the [Projects repository](https
 - Modernized enterprise infrastructure, reducing communication costs and improving network reliability across multiple sites.
 - Accelerated public‑sector processing times by 40% for systems serving 2M+ residents.
 - Achieved 95% first‑attempt resolution across 1800+ field engineering deployments.
-- Scaled an IT services organization with 30% YoY growth and 5,000+ successful system implementations.
+- Scaled an IT services organization with 30% YoY growth and 5000+ successful system implementations.
 
 ---
 
