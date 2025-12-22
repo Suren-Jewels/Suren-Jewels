@@ -1,5 +1,4 @@
-[<img src="https://suren-jewels.github.io/assets/banner.png" alt="Suren Jewels Banner" style="width:100%;"/>
-](https://github.com/Suren-Jewels/Suren-Jewels/blob/main/Banner%20Image.png)
+<img src="https://raw.githubusercontent.com/Suren-Jewels/Suren-Jewels/main/Banner%20Image.png" alt="Suren Jewels Banner" width="100%" />
 
 # 🗽🦅 Suren Jewels  
 **Cloud & Infrastructure Engineer • Security + Automation • AWS / Azure / Terraform**  
