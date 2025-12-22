@@ -44,6 +44,38 @@ _Last updated: December 2025_
 
 ---
 
+## Technical systems built
+
+### ML platform integration (University of Washington)
+- Integrated secure compute and storage workflows for ML research environments.
+- Automated environment provisioning using Terraform and Python.
+- Standardized onboarding and documentation for cross-team adoption.
+
+### EGSE deployment system for satellite test environments (Amazon Kuiper)
+- Deployed and validated EGSE racks across Linux and Windows test environments.
+- Authored readiness and validation runbooks used across 8 deployment phases.
+- Reduced onboarding time by 40% by creating repeatable deployment workflows.
+- Standardized configuration and build procedures enabling multi-team scaling.
+
+### IL4/IL5 secure access and device provisioning platform (ServiceNow federal)
+- Supported 500+ federal users across IL4/IL5 environments.
+- Automated Intune and Jamf provisioning, improving deployment speed by 45%.
+- Implemented MFA, PAM, VPN, and compliance controls aligned to FedRAMP.
+- Maintained 99.8% uptime for critical access services.
+
+### Hybrid cloud capacity optimization engine (ServiceNow production fleet)
+- Managed 1000+ servers across 34 PODs in a hybrid cloud fleet.
+- Improved utilization by 32%, preventing infrastructure overrun.
+- Identified inactive assets and recovered $2M+ in unused hardware and licenses.
+- Stabilized the RHEL8 upgrade path for global teams.
+
+### Enterprise Wi‑Fi and VoIP modernization (UPS)
+- Modernized network services across 10 sites, improving reliability and quality.
+- Led 15+ infrastructure projects and authored 15+ governance policies.
+- Resolved 200+ critical incidents, improving MTTR and overall uptime.
+
+---
+
 ## 🚀 Core Engineering Repositories
 
 These repositories represent my **active technical brand** across Cloud, SRE, Security, and Automation.
