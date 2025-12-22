@@ -44,35 +44,79 @@ _Last updated: December 2025_
 
 ---
 
-## Technical systems built
+## 🏗️ Technical Systems Built
 
-### ML platform integration (University of Washington)
-- Integrated secure compute and storage workflows for ML research environments.
-- Automated environment provisioning using Terraform and Python.
-- Standardized onboarding and documentation for cross-team adoption.
+### ML Platform Integration (University of Washington)
+**Secure Compute & Storage for ML Research Environments**
 
-### EGSE deployment system for satellite test environments (Amazon Kuiper)
-- Deployed and validated EGSE racks across Linux and Windows test environments.
-- Authored readiness and validation runbooks used across 8 deployment phases.
-- Reduced onboarding time by 40% by creating repeatable deployment workflows.
-- Standardized configuration and build procedures enabling multi-team scaling.
+- Integrated secure compute and storage workflows for ML research environments
+- Automated environment provisioning using Terraform and Python
+- Standardized onboarding and documentation for cross-team adoption
 
-### IL4/IL5 secure access and device provisioning platform (ServiceNow federal)
-- Supported 500+ federal users across IL4/IL5 environments.
-- Automated Intune and Jamf provisioning, improving deployment speed by 45%.
-- Implemented MFA, PAM, VPN, and compliance controls aligned to FedRAMP.
-- Maintained 99.8% uptime for critical access services.
+**Impact**: Enabled scalable, secure ML infrastructure for research teams
 
-### Hybrid cloud capacity optimization engine (ServiceNow production fleet)
-- Managed 1000+ servers across 34 PODs in a hybrid cloud fleet.
-- Improved utilization by 32%, preventing infrastructure overrun.
-- Identified inactive assets and recovered $2M+ in unused hardware and licenses.
-- Stabilized the RHEL8 upgrade path for global teams.
+---
 
-### Enterprise Wi‑Fi and VoIP modernization (UPS)
-- Modernized network services across 10 sites, improving reliability and quality.
-- Led 15+ infrastructure projects and authored 15+ governance policies.
-- Resolved 200+ critical incidents, improving MTTR and overall uptime.
+### EGSE Deployment System for Satellite Test Environments (Amazon Kuiper)
+**Mission-Critical Spacecraft Testing Infrastructure**
+
+- Deployed and validated EGSE racks across Linux and Windows test environments
+- Authored readiness and validation runbooks used across 8 deployment phases
+- Reduced onboarding time by **40%** by creating repeatable deployment workflows
+- Standardized configuration and build procedures enabling multi-team scaling
+
+**Impact**: Accelerated satellite testing operations with reliable, automated deployment
+
+---
+
+### IL4/IL5 Secure Access and Device Provisioning Platform (ServiceNow Federal)
+**FedRAMP-Compliant Infrastructure for Federal Users**
+
+- Supported **500+ federal users** across IL4/IL5 environments
+- Automated Intune and Jamf provisioning, improving deployment speed by **45%**
+- Implemented MFA, PAM, VPN, and compliance controls aligned to FedRAMP
+- Maintained **99.8% uptime** for critical access services
+
+**Impact**: Delivered secure, compliant infrastructure for federal government operations
+
+---
+
+### Hybrid Cloud Capacity Optimization Engine (ServiceNow Production Fleet)
+**Fleet-Scale Resource Management & Cost Recovery**
+
+- Managed **1000+ servers** across **34 PODs** in a hybrid cloud fleet
+- Improved utilization by **32%**, preventing infrastructure overrun
+- Identified inactive assets and recovered **$2M+** in unused hardware and licenses
+- Stabilized the RHEL8 upgrade path for global teams
+
+**Impact**: Optimized infrastructure spend and improved operational efficiency
+
+---
+
+### Enterprise Wi-Fi and VoIP Modernization (UPS)
+**Network Infrastructure Transformation**
+
+- Modernized network services across **10 sites**, improving reliability and quality
+- Led **15+ infrastructure projects** and authored **15+ governance policies**
+- Resolved **200+ critical incidents**, improving MTTR and overall uptime
+
+**Impact**: Enhanced network reliability and reduced downtime for enterprise operations
+
+---
+
+## 📊 Key Metrics Summary
+
+| Project | Key Metric | Result |
+|---------|------------|--------|
+| EGSE Deployment | Onboarding Time Reduction | **40%** |
+| IL4/IL5 Platform | Deployment Speed Improvement | **45%** |
+| IL4/IL5 Platform | System Uptime | **99.8%** |
+| Capacity Optimization | Utilization Improvement | **32%** |
+| Capacity Optimization | Cost Recovery | **$2M+** |
+| Capacity Optimization | Fleet Size | **1000+ servers, 34 PODs** |
+| IL4/IL5 Platform | Users Supported | **500+** |
+| Enterprise Network | Sites Modernized | **10** |
+| Enterprise Network | Incidents Resolved | **200+** |
 
 ---
 
