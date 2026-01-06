@@ -347,6 +347,9 @@ I'm always open to connecting with engineers, collaborators, and technical leade
 <td><strong>🔗 LinkedIn</strong></td>
 <td><a href="https://www.linkedin.com/in/suren-jewels/">linkedin.com/in/suren-jewels</a></td>
 </tr>
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+
 <tr>
 <td><strong>🗄️ GitHub</strong></td>
 <td><a href="https://github.com/Suren-Jewels?tab=repositories">github.com/Suren-Jewels</a></td>
