@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Suren-Jewels/Suren-Jewels/main/Banner%20Image.png" alt="Suren Jewels Banner" width="100%" />
 
 # 🗽🦅 Suren Jewels  
-**Cloud & Infrastructure Engineer • Security + Automation • AWS / Azure / Terraform**  
+**Cloud & Infrastructure Engineer • Security + Automation**  
 📍 Redmond, WA • 🛰️ Aerospace, 🏛️ Federal, and 🏢 Enterprise Systems  
 
 [![📄 View My Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenJewels_Resume.pdf)  
