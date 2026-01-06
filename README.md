@@ -2,7 +2,7 @@
 
 # 🗽🦅 Suren Jewels  
 **Cloud & Infrastructure Engineer • Security + Automation • AWS / Azure / Terraform**  
-📍 Bellevue, WA • 🛰️ Aerospace, 🏛️ Federal, and 🏢 Enterprise Systems  
+📍 Redmond, WA • 🛰️ Aerospace, 🏛️ Federal, and 🏢 Enterprise Systems  
 
 [![📄 View My Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenJewels_Resume.pdf)  
 _Last updated: December 2025_
