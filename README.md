@@ -350,6 +350,8 @@ I'm always open to connecting with engineers, collaborators, and technical leade
 
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
 
+[![Suren Jewels profile views](https://u8views.com/api/v1/github/profiles/190319437/views/day-week-month-total-count.svg)](https://u8views.com/github/Suren-Jewels)
+
 <tr>
 <td><strong>🗄️ GitHub</strong></td>
 <td><a href="https://github.com/Suren-Jewels?tab=repositories">github.com/Suren-Jewels</a></td>
