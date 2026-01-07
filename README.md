@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/Suren-Jewels/Suren-Jewels/main/Banner%20Image.png" alt="Suren Jewels Banner" width="100%" />
 
 # 🗽 Suren Jewels  
-### **Senior Cloud Infrastructure • SRE • Security Engineer**  
+### **Cloud Infrastructure • SRE • Security Engineer**  
 **Azure • AWS • GCP | Automation • Zero Trust • Platform Engineering | Applied ML (UW)**  
 📍 Redmond, WA — Aerospace • Federal • Enterprise Systems  
 
