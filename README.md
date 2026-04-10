@@ -10,8 +10,9 @@
 📍 Redmond, WA — Aerospace • Federal • Enterprise Systems
 
 [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenJewels_Resume.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/suren-jewels/)
-![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/Suren-Jewels)
 
 ---
 
