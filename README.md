@@ -10,10 +10,12 @@
 📍 Redmond, WA — Aerospace • Federal • Enterprise Systems
 
 [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenJewels_Resume.pdf)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue)](https://suren-jewels.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/suren-jewels/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/Suren-Jewels)
-
+<p align="center">
+  <a href="https://github.com/Suren-Jewels"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://suren-jewels.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/Suren-Jewels/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:SurenJewelsPro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 ---
 
 # 🎯 What I Do
