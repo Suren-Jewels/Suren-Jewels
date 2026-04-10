@@ -5,9 +5,9 @@
 <img src="https://raw.githubusercontent.com/Suren-Jewels/Suren-Jewels/main/Banner%20Image.png" alt="Suren Jewels Banner" width="100%" />
 
 # 🗽 Suren Jewels  
-### **Cloud & Systems Engineer • SRE • Security**  
-**AWS • Azure • GCP | GovCloud IL4/IL5 | IAM • Automation • Zero Trust | Applied ML (UW)**  
-📍 Redmond, WA — Aerospace • Federal • Enterprise Systems  
+### Cloud & Systems Engineer • IL4/IL5 GovCloud • Identity & Access  
+**Azure • AWS • ServiceNow | Automation • Zero Trust • Infrastructure | Applied ML (UW)**  
+📍 Redmond, WA — Aerospace • Federal • Enterprise Systems
 
 [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenJewels_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/suren-jewels/)
