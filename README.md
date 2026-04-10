@@ -11,7 +11,7 @@
 
 [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenJewels_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/suren-jewels/)
-![GitHub](https://img.shields.io/badge/GitHub-Profile-black)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)
 
 ---
 
