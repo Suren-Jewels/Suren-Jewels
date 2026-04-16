@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/Suren-Jewels/Suren-Jewels/main/Banner%20Image.png" alt="Suren Jewels Banner" width="100%" />
 
-# 🗽 Suren Jewels  
+# 🗽 Suren A. Jewels  
 ### Cloud & Systems Engineer • IL4/IL5 GovCloud • Identity & Access  
 **Azure • AWS • ServiceNow | Automation • Zero Trust • Infrastructure | Applied ML (UW)**  
 📍 Redmond, WA — Aerospace • Federal • Enterprise Systems
