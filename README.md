@@ -9,7 +9,7 @@
 **Azure • AWS • ServiceNow | Automation • Zero Trust • Infrastructure | Applied ML (UW)**  
 📍 Redmond, WA — Aerospace • Federal • Enterprise Systems
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenJewels_Resume.pdf) Update Date: April 16, 2026
+[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenJewels_Resume.pdf) Update Date: April 17, 2026
 
 <p align="center">
   <a href="https://github.com/Suren-Jewels"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
