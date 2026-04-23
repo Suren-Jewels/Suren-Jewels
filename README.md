@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/Suren-Jewels/Suren-Jewels/main/Banner%20Image.png" alt="Suren Jewels Banner" width="100%" />
 
 # 🗽 Suren A. Jewels  
-### Cloud & Systems Engineer | IL4/IL5 GovCloud | Identity & Access | Automation | Azure • AWS • ServiceNow **  
+### Cloud & Systems Engineer | IL4/IL5 GovCloud | Identity & Access | Automation | Azure • AWS • ServiceNow
 📍 Redmond, WA — Aerospace • Federal • Enterprise Systems
 
 [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenA-Jewels_Resume.pdf) Update Date: April 17, 2026
