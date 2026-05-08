@@ -19,7 +19,7 @@
 
 ---
 
-# 🎯 What I Do
+# What I Do
 
 I keep systems **stable, secure, and running**.  
 My background spans **cloud infrastructure, GovCloud IL4/IL5 environments, identity and access, automation, and enterprise operations** across AWS, Azure, and ServiceNow.
@@ -37,7 +37,7 @@ Currently studying **Applied Machine Learning (UW)** and **Cloud Architecture (B
 
 ---
 
-# ☁️ Technical Domains
+# Technical Domains
 
 | Domain | Technologies |
 |--------|--------------|
@@ -49,21 +49,21 @@ Currently studying **Applied Machine Learning (UW)** and **Cloud Architecture (B
 
 ---
 
-# 🚀 Featured Repositories
+# Featured Repositories
 
 These represent my **active engineering brand** across Cloud, SRE, Security, and Automation.
 
 | Project | Focus | Technologies |
 |---------|--------|--------------|
-| **🛰️ [Kuiper EGSE Deployment](https://github.com/Suren-Jewels/Kuiper-EGSE-Deployment)** | Aerospace Infrastructure | EGSE, ATE, Linux/Windows, Automation |
-| **📊 [ServiceNow Capacity Optimization](https://github.com/Suren-Jewels/ServiceNow-Capacity-Optimization)** | Enterprise SRE | Python, ServiceNow, Performance Engineering |
-| **🛡️ [Federal Security Support](https://github.com/Suren-Jewels/Federal-Security-Support)** | Federal Compliance | IL4/IL5, Zero Trust, YubiKey |
-| **🔐 [YubiKey, VDI & ServiceNow Support](https://github.com/Suren-Jewels/YubiKey-VDI-ServiceNow-Support)** | Identity Engineering | MFA, VDI, Zero Trust |
-| **🧰 [Scripts Toolkit](https://github.com/Suren-Jewels/Scripts-Toolkit)** | Automation & SRE | Python, PowerShell, Bash |
+| **[Kuiper EGSE Deployment](https://github.com/Suren-Jewels/Kuiper-EGSE-Deployment)** | Aerospace Infrastructure | EGSE, ATE, Linux/Windows, Automation |
+| **[ServiceNow Capacity Optimization](https://github.com/Suren-Jewels/ServiceNow-Capacity-Optimization)** | Enterprise SRE | Python, ServiceNow, Performance Engineering |
+| **[Federal Security Support](https://github.com/Suren-Jewels/Federal-Security-Support)** | Federal Compliance | IL4/IL5, Zero Trust, YubiKey |
+| **[YubiKey, VDI & ServiceNow Support](https://github.com/Suren-Jewels/YubiKey-VDI-ServiceNow-Support)** | Identity Engineering | MFA, VDI, Zero Trust |
+| **[Scripts Toolkit](https://github.com/Suren-Jewels/Scripts-Toolkit)** | Automation & SRE | Python, PowerShell, Bash |
 
 ---
 
-# 🏗️ Engineering Work (Condensed Highlights)
+# Engineering Work (Condensed Highlights)
 
 ## **Amazon — Project Kuiper**
 **Mission‑Critical Satellite Test Infrastructure**
@@ -97,7 +97,7 @@ These represent my **active engineering brand** across Cloud, SRE, Security, and
 
 ---
 
-# 📊 Key Metrics Summary
+# Key Metrics Summary
 
 | Project | Metric | Result |
 |--------|--------|--------|
@@ -113,14 +113,14 @@ These represent my **active engineering brand** across Cloud, SRE, Security, and
 
 ---
 
-# 🗂️ Legacy Projects Archive  
+# Legacy Projects Archive  
 Older or secondary projects are consolidated here:
 
-👉 **[Legacy‑Projects‑Archive](https://github.com/Suren-Jewels/Legacy-Projects-Archive)**
+**[Legacy‑Projects‑Archive](https://github.com/Suren-Jewels/Legacy-Projects-Archive)**
 
 ---
 
-# 🔒 Confidentiality Notice
+# Confidentiality Notice
 Some projects involve sensitive or proprietary systems.  
 All shared documentation is **sanitized**, and certain technical details are intentionally omitted.
 
