@@ -2,7 +2,7 @@
 <!--                    PREMIUM HYBRID GITHUB README (FINAL)                -->
 <!-- ====================================================================== -->
 
-<img src="https://raw.githubusercontent.com/Suren-Jewels/Suren-Jewels/main/Banner%20Image.png" alt="Suren Jewels Banner" width="100%" />
+<img src="https://github.com/Suren-Jewels/Branding-Design/blob/main/draw.jpg" alt="Suren Jewels Banner" width="100%" /> 
 
 # Suren A. Jewels  
 ### Cloud Infrastructure Engineer | IL4/IL5 GovCloud | Azure • AWS | IAM & Automation | 1000+ Server Environments
