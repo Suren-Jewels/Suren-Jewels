@@ -8,7 +8,7 @@
 ### Cloud Infrastructure Engineer | IL4/IL5 GovCloud | Azure • AWS | IAM & Automation | 1000+ Server Environments
 📍 Redmond, WA — Aerospace • Federal • Enterprise Systems
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenA-Jewels_Resume.pdf) Update Date: April 17, 2026
+[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/SurenA-Jewels_Resume.pdf) Update Date: July 03, 2026
 
 <p align="center">
   <a href="https://github.com/Suren-Jewels"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
